@@ -29,7 +29,7 @@ public class MainPhoneBook {
 			System.out.println("the number is not exist");
 		}
 		// for(Contact c : p1.getContacts()) {
-		// System.out.println(c.getContactName()+c.getContactTel() );
+		 System.out.println(c.getContactName()+c.getContactTel() );
 
 	}
 
